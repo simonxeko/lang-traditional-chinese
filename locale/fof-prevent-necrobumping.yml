@@ -20,5 +20,5 @@ fof-prevent-necrobumping:
       message_description_label: 自定義訊息說明
       message_agreement_label: 自定義訊息協定（復選框）
 
-      tags_title: 節點
-      tags_help: 為指定節點複寫全域天數。置空表示使用預設值。如果貼文擁有多個不同天數的節點，將會使用最小的那一個。
+      tags_title: 版塊
+      tags_help: 為指定版塊複寫全域天數。置空表示使用預設值。如果貼文擁有多個不同天數的版塊，將會使用最小的那一個。

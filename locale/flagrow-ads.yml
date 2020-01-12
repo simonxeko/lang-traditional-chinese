@@ -13,7 +13,7 @@ flagrow-ads:
                 title: 貼文間的廣告位
                 placeholder: => flagrow-ads.admin.positions.under-header.placeholder
             under-nav-items:
-                title: 首頁左側節點列表下的廣告位
+                title: 首頁左側版塊列表下的廣告位
                 placeholder: => flagrow-ads.admin.positions.under-header.placeholder
         settings:
             start-from-post: 指定從第幾個貼文開始顯示廣告

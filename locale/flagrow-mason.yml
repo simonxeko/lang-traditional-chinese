@@ -15,8 +15,8 @@ flagrow-mason:
             no-option-selected: 未選擇
         tags:
             inadequate-settings: >
-                節點設定未正確配置。最多允許一個主節點和次節點，或者停用此特性。
-            tags-label: 節點
+                版塊設定未正確配置。最多允許一個主版塊和次版塊，或者停用此特性。
+            tags-label: 版塊
     admin:
         buttons:
             new-field: 新增欄位
@@ -86,10 +86,10 @@ flagrow-mason:
             hide-empty-fields-section: 當所有欄位都為空且不可見時，隱藏標題及控制項
             hide-empty-fields-section-help: >
                 預設為始終顯示，啟用此選項後，當所有欄位都為空時，「編輯欄位」按鈕僅在「回覆」下拉選單中可用
-            tags-as-field: 將節點選擇作為一個欄位顯示
+            tags-as-field: 將版塊選擇作為一個欄位顯示
             tags-as-field-help: >
-                這將隱藏預設節點選擇并以自定義下拉選單代替。這僅適用於最多一個主節點和一個次節點！
-            tags-field-name: 節點欄位標籤
+                這將隱藏預設版塊選擇并以自定義下拉選單代替。這僅適用於最多一個主版塊和一個次版塊！
+            tags-field-name: 版塊欄位標籤
             tags-field-name-placeholder: => flagrow-mason.forum.tags.tags-label
         titles:
             settings: 設定

@@ -32,7 +32,7 @@ nikovonlas-webpush:
       message: '{from} 回覆了貼文「{post}」'
     tag:
       discussion:
-        title: 訂閱的節點有新貼文發佈
+        title: 訂閱的版塊有新貼文發佈
         message: '{from} 發佈了新貼文「{title}」'
       post:
         title: '貼文「{title}」有新回覆'

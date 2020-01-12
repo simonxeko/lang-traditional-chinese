@@ -12,7 +12,7 @@ migratetoflarum-vbulletin-redirects:
             field:
                 discussionIncrement: 貼文 (討論串) ID 增量
                 userIncrement: 會員 ID 增量
-                tagIncrement: 節點 (論壇) ID 增量
+                tagIncrement: 版塊 (論壇) ID 增量
                 redirectStatus: 跳轉類型
 
             option:
