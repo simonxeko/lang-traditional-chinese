@@ -106,8 +106,8 @@ validation:
     content: 正文
     name_singular: 單數名稱
     name_plural: 複數名稱
-    tag_count_primary: 主版塊數量
-    tag_count_secondary: 次版塊數量
+    tag_count_primary: 主看板數量
+    tag_count_secondary: 次看板數量
 
   custom:
     username:

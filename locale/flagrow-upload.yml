@@ -8,7 +8,7 @@ flagrow-upload:
       help_texts:
           description: 配置上傳服務及偏好設定
           disable-download-logging: 開啟此設定可查看下載量及未來可能的統計數據。
-          disable-hotlink-protection: 熱鏈保護可防止從其他站點下載。目前的方式需求 csrf token 及帖文 ID
+          disable-hotlink-protection: 熱鏈保護可防止從其他站點下載。目前的方式需求 csrf token 及貼文 ID
           download_templates: 下載模板是上傳的檔案如何在論壇上顯示 比如預覽、按鈕等，目前支援的有：
           mime_types: 請於此設定對映。每一個 MIME 類型的正規表示式都將由指定的上傳接口處理
           resize: 您可以選擇是否在上傳圖片前調整圖片大小，您也可以設定圖片最大長寬（px），圖片大小調整將會保持圖片長寬比例

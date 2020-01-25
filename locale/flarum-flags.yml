@@ -25,15 +25,15 @@ flarum-flags:
 
     # These translations are used by the Flag Post modal dialog.
     flag_post:
-      confirmation_message: 感謝舉報，管理員稍後會審閱此帖。
+      confirmation_message: 感謝舉報，管理員稍後會審閱此貼文。
       dismiss_button: => core.ref.okay
       reason_inappropriate_label: 不雅
-      reason_inappropriate_text: "此帖包含攻擊性、侮辱性詞句或違反了<a>論壇守則</a>"
+      reason_inappropriate_text: "文章包含攻擊性、侮辱性詞句或違反了<a>論壇守則</a>"
       reason_off_topic_label: "離題"
-      reason_off_topic_text: 此帖與當前討論主題無關
+      reason_off_topic_text: 文章與當前討論主題無關
       reason_other_label: 其他
       reason_spam_label: 垃圾
-      reason_spam_text: 這是廣告貼
+      reason_spam_text: 這是廣告文
       submit_button: => flarum-flags.ref.flag_post
       title: => flarum-flags.ref.flag_post
 

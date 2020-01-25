@@ -285,7 +285,7 @@ core:
     # These translations are used in the header and session dropdown menu.
     header:
       admin_button: 管理後台
-      back_to_index_tooltip: 返回帖文列表
+      back_to_index_tooltip: 返回文章列表
       log_in_link: => core.ref.log_in
       log_out_button: => core.ref.log_out
       profile_button: 基本資料
@@ -360,7 +360,7 @@ core:
 
     # These translations are used by the rename discussion modal.
     rename_discussion:
-      title: 更改帖文標題
+      title: 更改文章標題
       submit_button: => core.ref.rename
 
     # These translations are used by the search results dropdown list.

@@ -4,13 +4,13 @@
 fof-reactions:
   forum:
     warning: 你的回應將被覆蓋
-    notification: '{username} 使用{reaction}回應了你的帖文'
+    notification: '{username} 使用{reaction}回應了你的貼文'
     settings:
         notify_post_reacted_label: 某人回應了你的貼文
 
   admin:
     permissions:
-        react_posts_label: 回應帖文
+        react_posts_label: 回應貼文
   
     nav:
       desc: 新增自定義回應及更改設定

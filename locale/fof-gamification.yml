@@ -17,8 +17,8 @@ fof-gamification:
       name: 用戶
       amount: 👍
     notification:
-      upvote: "{username} 讚了您的帖文"
-      downvote: "{username} 踩了您的帖文"
+      upvote: "{username} 讚了您的貼文"
+      downvote: "{username} 踩了您的貼文"
     user:
       points: "👍: {points}"
       rank: "{rank}"
@@ -29,8 +29,8 @@ fof-gamification:
     mod_item: 查看點讚的人
   admin:
     permissions:
-      vote_label: 讚/踩帖文
-      see_votes_label: 查看帖文讚/踩
+      vote_label: 讚/踩貼文
+      see_votes_label: 查看貼文讚/踩
       see_ranking_page: 查看等級頁面
     nav:
       desc: 增強 Flarum 論壇遊戲性
@@ -49,7 +49,7 @@ fof-gamification:
         points_title: 佔位符
         points_placeholder: "👍: "
         color_holder: '#ffffff'
-        auto_upvote: 當帖文發佈時自動點讚
+        auto_upvote: 當貼文發佈時自動點讚
         rate_limit: 點讚頻率限制（10 秒）
         discussion_page: 在貼文列表中顯示點讚數
         title: 讚

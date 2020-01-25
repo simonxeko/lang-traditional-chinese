@@ -4,8 +4,8 @@
 fof-follow-tags:
   forum:
     settings:
-      notify_new_discussion_label: 有人中我關注的版塊發帖
-      notify_new_post_label: 有人在我關注的版塊回覆
+      notify_new_discussion_label: 有人中我關注的看板發文
+      notify_new_post_label: 有人在我關注的看板回覆
 
 
     index:
@@ -33,8 +33,8 @@ fof-follow-tags:
       new_post_text: "{username} 發佈了新回覆"
 
   email:
-    newDiscussionInTag: "[版塊 | 新貼文] 標題"
-    newPostInTag: "[版塊 | 新回覆] 標題"
+    newDiscussionInTag: "[看板 | 新貼文] 標題"
+    newPostInTag: "[看板 | 新回覆] 標題"
 
   ref:
     follow: 關注
