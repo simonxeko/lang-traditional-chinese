@@ -27,7 +27,7 @@ validation:
   digits_between: ":attribute 必須介於 :min 至 :max 位數字之間"
   dimensions: ":attribute 圖片大小非法。"
   distinct: ":attribute 包含重複的值"
-  email: ":attribute 必須是一個合法的郵箱位址"
+  email: ":attribute 必須是一個合法的信箱位址"
   ends_with: ":attribute 必須以「:values」結尾"
   exists: "選擇的 :attribute 無效"
   file: ":attribute 必須是文件。"
@@ -101,7 +101,7 @@ validation:
   attributes:
     username: 使用者
     password: 密碼
-    email: 郵箱
+    email: 信箱
     title: 標題
     content: 正文
     name_singular: 單數名稱

@@ -63,7 +63,7 @@ flagrow-upload:
         upload_label: 上傳檔案
       templates:
         file: 預設檔案下載模板
-        file_description: 顯示檔案名稱及基本信息，經由 php 代理下載，支援統計及熱鏈保護
+        file_description: 顯示檔案名稱及基本訊息，經由 php 代理下載，支援統計及熱鏈保護
         image: 預設圖片下載模板
         image-preview: 完整圖片預覽模板
         image-preview_description: 於行內顯示完整圖片。不支援下載、統計及熱鏈保護

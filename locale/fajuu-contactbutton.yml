@@ -6,6 +6,6 @@ fajuu-contactbutton:
     settings:
       title: 聯絡按鈕
       label: 按鈕名稱
-      url: 郵箱地址或網站連結
+      url: 信箱地址或網站連結
       icon: 按鈕圖示
       newtab: 在新分頁開啟連結

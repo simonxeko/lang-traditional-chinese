@@ -30,7 +30,7 @@ flagrow-analytics:
       trackAccounts:
         none: 不要追蹤
         username: 依照用戶名追蹤
-        email: 依照郵箱追蹤
+        email: 依照信箱追蹤
 
     page:
       nav:
