@@ -260,7 +260,7 @@ core:
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
-      activate_button: 激活會員
+      activate_button: 啟用會員
       email_heading: => core.ref.email
       email_label: => core.ref.email
       groups_heading: 群組
@@ -506,11 +506,11 @@ core:
 
     # These translations are used in emails sent when users register new accounts.
     activate_account:
-      subject: 激活帳戶
+      subject: 啟用帳戶
       body: |
         你好，{username}！
 
-        此信箱位址被用於註冊 {forum}，若確定是你本人註冊的，請點擊下面的連結即可激活你的帳戶：
+        此信箱位址被用於註冊 {forum}，若確定是你本人註冊的，請點擊下面的連結即可啟用你的帳戶：
 
         {url}
 

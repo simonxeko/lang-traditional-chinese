@@ -6,7 +6,7 @@ fof-forum-statistics-widget:
     navbar:
       widget_title: 論壇統計
       discussions_count: "貼文數： {discussionsCount}"
-      posts_count: "回貼數： {postsCount}"
+      posts_count: "留言數： {postsCount}"
       users_count: "會員數： {usersCount}"
       latest_member: "新註冊： "
   admin:

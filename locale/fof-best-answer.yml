@@ -9,7 +9,7 @@ fof-best-answer:
     settings:
       title: FoF 最佳回覆
       allow_select_own_post: 允許選取自己的回覆
-      select_best_answer_reminder_days: 於 n 天後提醒用戶選取最佳回覆
+      select_best_answer_reminder_days: 於 n 天後提醒使用者選取最佳回覆
   forum:
     answered_badge: 已解決
     this_best_answer: 設為最佳回覆

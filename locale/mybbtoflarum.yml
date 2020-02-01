@@ -18,15 +18,15 @@ mybbtoflarum:
         mybb:
           title: MyBB 設定
           host: 資料庫主機
-          user: 資料庫用戶名
+          user: 資料庫使用者名
           password: 資料庫密碼
           db: 資料庫名稱
           prefix: 表前綴
           mybbPath: MyBB 絕對路徑
         options:
           title: 一般遷移選項
-          migrateUsers: 遷移用戶
+          migrateUsers: 遷移使用者
           migrateThreadsPosts: 遷移貼文及回覆
-          migrateUserGroups: 遷移用戶群組
+          migrateUserGroups: 遷移使用者群組
           migrateCategories: 遷移分類
 

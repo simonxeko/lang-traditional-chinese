@@ -27,7 +27,7 @@ flagrow-upload:
           title: 停用熱鏈保護
           toggle: 停用
         imgur:
-          client_id: Imgur 用戶端 ID
+          client_id: Imgur 使用者端 ID
           title: Imgur 圖片存儲設定
         local:
           cdn_url: CDN 連結 (在檔案前)

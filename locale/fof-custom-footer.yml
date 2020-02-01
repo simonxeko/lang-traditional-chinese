@@ -6,7 +6,7 @@ fof-custom-footer:
     settings:
       title: 客製化頁腳
 
-      text: 頁腳文本
+      text: 頁腳文字
       height: 頁腳高度
       css: CSS
       js: JS

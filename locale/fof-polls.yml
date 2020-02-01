@@ -5,7 +5,7 @@ fof-polls:
   admin:
     permissions:
       moderate: 編輯及移除投票
-      self_edit: 允許用戶編輯自己的投票
+      self_edit: 允許使用者編輯自己的投票
       start: 發起投票
       vote: 參與投票
 
@@ -30,7 +30,7 @@ fof-polls:
       no_voters: 暫無投票
       option_placeholder: 選項
       options_label: 選項
-      public_poll_label: 允許用戶查看投票人
+      public_poll_label: 允許使用者查看投票人
       question_placeholder: 問題
       submit: 提交
 

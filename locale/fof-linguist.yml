@@ -15,7 +15,7 @@ fof-linguist:
             all: 全部
         placeholder:
             not-translated: 未翻譯
-            all-locales: 此處定義的文本將顯示於全部語言中
+            all-locales: 此處定義的文字將顯示於全部語言中
             hint: 原文內容： 
         filters:
             search: 搜尋翻譯字串...
@@ -25,7 +25,7 @@ fof-linguist:
             for-extension: 適用於延伸套件
             for-extension-unavailable: >
               名稱空間「{namespace}」找不到翻譯。
-              這個延伸套件可能沒有需要翻譯的文本，或者使用了另一個名稱空間。
+              這個延伸套件可能沒有需要翻譯的文字，或者使用了另一個名稱空間。
               嘗試透過搜尋來定位翻譯。
             results: 顯示 {shown} 條匹配翻譯，共 {total} 條 
         clear-cache:

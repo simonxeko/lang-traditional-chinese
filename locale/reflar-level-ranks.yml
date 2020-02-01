@@ -5,7 +5,7 @@ reflar-level-ranks:
   admin:
     settings:
       title: 等級設定
-      levelText: 輸入要顯示的文本（例如：等級，級別）
+      levelText: 輸入要顯示的文字（例如：等級，級別）
   forum:
     desc:
       expText: 點經驗值

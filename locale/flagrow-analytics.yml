@@ -29,7 +29,7 @@ flagrow-analytics:
           你可以在設定→個人→API 驗證 Token 中找到。
       trackAccounts:
         none: 不要追蹤
-        username: 依照用戶名追蹤
+        username: 依照使用者名追蹤
         email: 依照信箱追蹤
 
     page:

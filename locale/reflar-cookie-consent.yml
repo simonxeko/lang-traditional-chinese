@@ -7,20 +7,20 @@ reflar-cookie-consent:
       title: Cookie 使用許可
       
       configuration_title: 設定選項
-      consentText: 內容文本
-      buttonText: 「取消」按鈕文本
-      configuration_button_title: 「了解更多」按鈕文本
-      learnMoreLinkText: 文本
+      consentText: 內容文字
+      buttonText: 「取消」按鈕文字
+      configuration_button_title: 「了解更多」按鈕文字
+      learnMoreLinkText: 文字
       learnMoreLinkUrl: 連結
 
       theme_title: 主題選項
       ccTheme: 主題
       theme_popup_title: 彈出標題顏色
       backgroundColor: 背景顏色
-      textColor: 文本顏色
+      textColor: 文字顏色
       theme_dismiss_title: 「取消」按鈕颜色
       buttonBackgroundColor: 按鈕背景颜色
-      buttonTextColor: 按鈕文本颜色
+      buttonTextColor: 按鈕文字颜色
 
     themes:
         blocky: 方形

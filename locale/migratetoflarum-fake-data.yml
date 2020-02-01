@@ -5,7 +5,7 @@ migratetoflarum-fake-data:
     admin:
         generator:
             title: 產生假資料
-            user-count: 新增用戶數量
+            user-count: 新增使用者數量
             discussion-count: 新增貼文數量
             post-count: 新增回覆數量
             send: 產生資料
@@ -16,10 +16,10 @@ migratetoflarum-fake-data:
 
         generator:
             title: 產生假回覆
-            user-count: 新增用戶數量
+            user-count: 新增使用者數量
             post-count: 新增回覆數量
             send: 擦身資料
 
     api:
-        no-users-matched: 未找到用戶
+        no-users-matched: 未找到使用者
         no-discussions-matched: 未找到貼文

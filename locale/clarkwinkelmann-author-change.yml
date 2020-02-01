@@ -8,7 +8,7 @@ clarkwinkelmann-author-change:
         modal:
             title-post: 更改回文作者
             title-discussion: 更改貼文作者
-            search_placeholder: 搜尋用戶
+            search_placeholder: 搜尋使用者
             submit: 儲存
             cancel: 放棄
         search:

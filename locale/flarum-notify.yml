@@ -22,7 +22,7 @@ flarum-notify:
       description: 前往 <a>https://api.slack.com/web</a> 獲取 token
       token: Slack token
       channel: 選取 channel
-      username: 用戶名
+      username: 使用者名
     hipchat-modal:
       title: HipChat 設定
       description: 前往 hipchat.com 在房間(登入，點擊「房間」並選取你想要發帖的房間）設定中可取得 token。點擊「Tokens」並新增 token。你指定的標簽將會顯示在每一個通知中。

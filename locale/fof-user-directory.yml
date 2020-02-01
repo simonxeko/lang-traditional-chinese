@@ -4,7 +4,7 @@
 fof-user-directory:
     forum:
         search:
-            users_heading: '在全部用戶中搜尋「{query}」'
+            users_heading: '在全部使用者中搜尋「{query}」'
         page:
             nav: 會員名錄
             sort:

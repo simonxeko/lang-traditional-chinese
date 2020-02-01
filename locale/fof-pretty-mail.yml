@@ -11,7 +11,7 @@ fof-pretty-mail:
       confirm: 您確定要復原郵件模板為
       default: 預設模板
       newPost: Flarum/subscriptions 新貼文提醒郵件
-      userMentioned: Flarum/mentions 用戶被提及郵件
+      userMentioned: Flarum/mentions 使用者被提及郵件
       postMentioned: Flarum/mentions 貼文被提及郵件
       notifications: 通知模板
       notificationHelp: '對於這些郵件，推薦使用 "$forumStyle"，因為它們可能包含 BBCODE。這些郵件也可以使用 "$user" 來引用收件人的完整資料。'

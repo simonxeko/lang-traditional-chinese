@@ -14,7 +14,7 @@ fof-gamification:
       name: 排名
     ranking:
       rank: 排位
-      name: 用戶
+      name: 使用者
       amount: 👍
     notification:
       upvote: "{username} 讚了您的貼文"
@@ -38,8 +38,8 @@ fof-gamification:
       rankings:
         blocked:
           placeholder: CDK2020, Ralkage, AngelAvila
-          title: 忽略的用戶
-          help: 這些用戶不會在排名頁面上顯示。 用戶名應以逗號分隔，後跟空格。
+          title: 忽略的使用者
+          help: 這些使用者不會在排名頁面上顯示。 使用者名應以逗號分隔，後跟空格。
         title: 排名頁面
         enable: 啟用自定義圖片
         custom_image_1: 冠軍圖片
